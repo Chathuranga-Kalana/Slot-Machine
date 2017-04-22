@@ -1,0 +1,12 @@
+
+ squid:MethodCyclomaticComplexity "ZThe Cyclomatic Complexity of this method "spin" is 14 which is greater than 10 authorized.(´·”Ú8‹•Óì‘+
+Ysquid:S1854)";Remove this useless assignment to local variable "random1".(Î‡¸·8‹•Óì‘+
+k
+squid:S134O"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ìë“­8‹•Óì‘+
+Lsquid:S21402")Use "java.util.Random.nextInt()" instead.(ıÄ¨úÿÿÿÿ8‹•Óì‘+
+Gsquid:S21403")Use "java.util.Random.nextInt()" instead.(Â¤ÿË8‹•Óì‘+
+wsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(­ˆÉ½8åã“®+
+k
+squid:S134:"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.( Şä8‹•Óì‘+
+osquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(²ì°
+Ysquid:S1854*";Remove this useless assignment to local variable "random2".(æ¬ã÷8‹•Óì‘+

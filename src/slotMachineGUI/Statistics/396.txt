@@ -1,0 +1,3 @@
+Wins : 1
+Loses : 4
+Average credits netted : 3.2
